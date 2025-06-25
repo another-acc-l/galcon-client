@@ -1,3 +1,4 @@
+![Main menu](images/image.png)
 # Galcon Multiplayer — Реалізація багатокористувацької стратегії реального часу
 
 ## Опис проекту
